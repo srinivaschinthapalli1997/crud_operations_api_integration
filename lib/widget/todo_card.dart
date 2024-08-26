@@ -27,7 +27,7 @@ class TodoCard extends StatelessWidget {
           },
           itemBuilder: (context){
             return [
-              PopupMenuItem(
+              const PopupMenuItem(
                 child: Text('Edit'),
                 value: 'edit',),
               PopupMenuItem(child: Text('Delete'),
