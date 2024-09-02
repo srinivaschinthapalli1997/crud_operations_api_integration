@@ -1,16 +1,10 @@
-# crud_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Todo task application
+# Demo video 
+![1000141563](https://github.com/user-attachments/assets/de5b6a10-aa42-4c95-911e-8872db17fa96)
+![1000141562](https://github.com/user-attachments/assets/0e4c89f9-e7cf-4685-8dec-2e64eb6976e1)
+![1000141561](https://github.com/user-attachments/assets/6f02c9a0-9736-42ab-8696-d94d1d9727e1)
+![1000141560](https://github.com/user-attachments/assets/43ced775-c064-4225-91a7-734047a89797)
+![1000141559](https://github.com/user-attachments/assets/50a1fee0-2066-4d84-8ce7-1a1cf1b2ed3a)
+![1000141557](https://github.com/user-attachments/assets/f43cdd6b-1290-44df-bbbe-27c2c789e24a)
+![1000141556](https://github.com/user-attachments/assets/981fc6ee-c68d-46e6-a79f-ef72ebf9c0e9)
+![1000141555](https://github.com/user-attachments/assets/b4bb77d3-741e-4190-84f5-f3f5aeb18fff)
